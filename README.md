@@ -8,9 +8,9 @@ A aplicação Cloud Gateway é composta principalmente pelo arquivo de configura
 
 No exemplo fornecido, há três rotas definidas:
 
-- `/clientes/**`: todas as requisições que começam com `/clientes` serão roteadas para o microserviço `msclientes`.
-- `/cartoes/**`: todas as requisições que começam com `/cartoes` serão roteadas para o microserviço `mscartoes`.
-- `/avaliacoes-credito/**`: todas as requisições que começam com `/avaliacoes-credito` serão roteadas para o microserviço `msavaliadorcredito`.
+- `/clientes/**`: todas as requisições que começam com `/clientes` serão roteadas para o microserviço [msclientes](https://github.com/leoniCS99/ms-client).
+- `/cartoes/**`: todas as requisições que começam com `/cartoes` serão roteadas para o microserviço [mscartao](https://github.com/leoniCS99/ms-cartao).
+- `/avaliacoes-credito/**`: todas as requisições que começam com `/avaliacoes-credito` serão roteadas para o microserviço [mscredito](https://github.com/leoniCS99/mscredito).
 
 ## Tecnologias
 
